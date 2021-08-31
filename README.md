@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!--<a href="https://"><img alt="PortFolio" src="https://img.shields.io/badge/Portfolio-www.devismail.netlify.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="www.linkedin.com/in/shaileshsps"><img alt="LinkedIn" src="https://img.shields.io/badge/shailesh-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/shaileshsps"><img alt="LinkedIn" src="https://img.shields.io/badge/shailesh-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
 <!-- <a href="https://www.facebook.com"><img alt="Facebook" src="https://img.shields.io/badge/shailesh-facebook-blue?style=flat&logo=facebook"></a> -->
 <a href="mailto:shailesh.spbs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shailesh.spbs@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
